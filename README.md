@@ -21,4 +21,4 @@ Install packages:
 pip install bcrypt argon2-cffi
 
 Run the script:
-python evaluator.py
+python password-hashing-evaluator.py
